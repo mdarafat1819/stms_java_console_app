@@ -28,11 +28,13 @@ Each task contains the following fields:
 ---
 
 ## 🚀 Features  
-
-1. **Add a new task**  
-2. **View all tasks**  
-3. **Update task status**  
-4. **Delete a task**  
+**Press 0:** Display Menu
+**Press 1:** Add new task
+**Press 2:** Update task status
+**Press 3:** Display All Tasks
+**Press 4:** Delete a task
+**Press 5:** Exit
+**Press 6:** Clear Terminal
 
 ---
 
